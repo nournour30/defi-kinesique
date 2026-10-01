@@ -1,0 +1,5 @@
+{
+  "buildCommand": "bash scripts/reassemble.sh && vite build",
+  "outputDirectory": "dist",
+  "framework": "vite"
+}
