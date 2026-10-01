@@ -1,0 +1,7 @@
+- [x] Confirmer la langue : français uniquement.
+- [x] Créer les 11 manches animées, les réponses, le score et les contrôles.
+- [x] Fournir un fichier HTML unique autonome pour le jeu hors-ligne.
+- [x] Afficher le jeu à l'accueil et vérifier le parcours et le fichier local.
+- [x] Remplacer les dessins par 11 vidéos de gestes réels intégrées au fichier HTML, et vérifier leur lecture hors-ligne.
+- [x] Passer à 10 questions avec des gestes uniques par partie et varier les réponses proposées.
+- [x] Adapter la présentation aux écrans PC, y compris aux vidéoprojecteurs de faible hauteur.
